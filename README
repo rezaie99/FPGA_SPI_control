@@ -1,1 +1,1 @@
-Verilog code for FPGA control
+Verilog code for FPGA control the SPI line, The FPGA is a slave mode and the line is controled by a micro
